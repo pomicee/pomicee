@@ -16,6 +16,15 @@
 
 <hr>
 
+<div align="center">
+</div>
+
+<hr>
+
+## Hi, I'm pomice.!
+
+That's it from me.
+
 <p align="left"> 
     <img
         src="https://komarev.com/ghpvc/?username=pomicee&label=Profile%20views&color=0e75b6&style=flat"
