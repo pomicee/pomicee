@@ -48,4 +48,4 @@ That's it from me.
 
 <hr>
 
-![Snake animation](https://raw.githubusercontent.com/Kkkermit/Kkkermit/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/pomicee/pomicee/output/github-contribution-grid-snake-dark.svg)
