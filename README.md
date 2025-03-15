@@ -31,7 +31,7 @@ That's it from me :)
 <hr>
 
 <div align="center">
-     <img src="https://lanyard.cnrad.dev/api/1252001166703853588?bg=transparent" alt="discord-info" margin-top="2rem" />
+     <img src="https://lanyard.cnrad.dev/api/627991951857418261?bg=transparent" alt="discord-info" margin-top="2rem" />
 </div>
 
 <hr>
