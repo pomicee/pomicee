@@ -14,8 +14,6 @@
 
 <hr>
 
-<hr>
-
 <div align="center">
     <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=pomicee&show_icons=true&theme=dracula&hide_border=true" alt="github-stats" />
     <img width="350" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomicee&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&theme=dracula" alt="top-langs" />
