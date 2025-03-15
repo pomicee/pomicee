@@ -24,14 +24,14 @@ That's it from me :)
 
 <p align="left"> 
     <img
-        src="https://komarev.com/ghpvc/?username=kkkermit&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=pomicee&label=Profile%20views&color=0e75b6&style=flat"
         alt="ProfileViews" /> 
     </p>
 
 <hr>
 
 <div align="center">
-     <img src="https://lanyard.cnrad.dev/api/627991951857418261?bg=transparent" alt="discord-info" margin-top="2rem" />
+     <img src="https://lanyard.cnrad.dev/api/1252001166703853588?bg=transparent" alt="discord-info" margin-top="2rem" />
 </div>
 
 <hr>
