@@ -6,7 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,go,kotlin)](https://skillicons.dev)
 --------------------------------------------------------------------------------------------------------
 [![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/docs/)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1252001166703853588?simple=true)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1252001166703853588)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)
 </div>
