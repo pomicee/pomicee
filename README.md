@@ -16,16 +16,6 @@
 [![Redux](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=%23764ABC)](https://redux.js.org/)
 [![MySql](https://img.shields.io/badge/-MySql-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
 
-
-
-</div>
-
-<hr>
-
-<div align="center">
-     <img src="https://i.postimg.cc/q7cPXFVL/heading-new.png" alt="heading-image">
-</div>
-
 <hr>
 
 ## Hi, I'm Kkermit.!
