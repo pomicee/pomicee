@@ -1,6 +1,6 @@
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,kotlin,java,python,npm,mongodb,cpp,rust,typescript,mongodb,redis,posgtresql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,kotlin,java,python,npm,mongodb,cpp,rust,typescript,redis,posgtresql,mysql,discordjs,discordpy&perline=6)](https://skillicons.dev)
 
 </div>
 
